@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <h2>Extension need Stylus (google chrome) &nbsp;</h2>
-  <a src="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">
+  <a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">
   link to add extension
   </a>
 </div>
