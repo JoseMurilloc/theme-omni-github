@@ -7723,7 +7723,7 @@
   .news .alert .octicon,
   svg.octicon-star
   {
-    color: #2ffff1;
+    color: #88e4a3;
   }
 
   .news .alert .branch-link,
@@ -10431,4 +10431,14 @@
   .octotree-icon-file-directory::before {
     color: #a29fb6;
     content: "";
+  }
+
+  .pr-3 {
+    background-color: #1a171e !important;
+  }
+
+  .selected {
+    background-color: #88e4a3 !important;
+    border-radius: 15px;
+    color: #222 !important;
   }
