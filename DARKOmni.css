@@ -183,7 +183,7 @@
   :root {
   /* github dark vars */
     --ghd-bg-custom: /*[[bg-custom]]*/;
-    --ghd-bg-img: /*[[bg-choice]]*/;
+    
     --ghd-bg-color: /*[[bg-color]]*/;
     --ghd-code-background: #141414;
     --ghd-code-color: #ccc;
